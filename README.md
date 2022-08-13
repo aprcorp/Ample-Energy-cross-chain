@@ -14,13 +14,13 @@
   <h4>
      <a href="https://aprcorp.co.th/">Office</a>
     <span> | </span>
-    <a href="https://amev.io/">Website</a>
+    <a href="https://amev.io/">Project</a>
     <span> | </span>
     <a href="https://github.com/energytrutol/aws-ame">Awesome</a>
     <span> | </span>
-    <a href="https://edaxchain.com">edaX</a>
+    <a href="https://edaxchain.com">EdaX Chain</a>
     <span> | </span>
-    <a href="https://github.com/energytrutol/ame-ts">TypeScript</a>
+    <a href="https://github.com/energytrutol/ame-ts">Prototype</a>
   </h4>
 </div>
 
