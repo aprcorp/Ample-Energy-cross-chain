@@ -80,6 +80,8 @@ See individual crates for documentation. For example, to build the edax see its 
  Website: https://amev.io/</br>
  Twitter: https://twitter.com/energytrutol</br>
  Blog: https://blog.amev.io/</br>
+ Telegram: https://t.me/aprcorp</br>
  Telegram: https://t.me/amethailand</br>
+ Telegram: https://t.me/restcomunity</br>
  Discord: https://discord.gg/xB7NdWVm2M
 
