@@ -24,6 +24,15 @@
   </h4>
 </div>
 
+<div align="center">
+  <p>
+ <h2> Project KYC Verification </h2>
+  </p>
+ </div><br> 
+
+<img src="https://github.com/aprcorp/ame-smart-contract-cross-chain/blob/main/images/KYC_VERIFICATION.png" />
+<img src="https://github.com/aprcorp/ame-smart-contract-cross-chain/blob/main/images/KYC_VERIFICATION_2.png" />
+
 Industry model ::<br>
     Renewable Energy Power Plant Industry Development Research Division
 Solar Farm Renewable Power Plant Industry  Ample Energy (AME),  will connect the cryptocurrency market with the renewable energy power plant industry, EV vehicle power station and retail through.  Renewable Energy Trading (Corporate — Community)
@@ -41,9 +50,6 @@ Technology and working principle ::
      
      # Writing a Project Adapter
 
-
-<img src="https://github.com/aprcorp/ame-smart-contract-cross-chain/blob/main/images/KYC_VERIFICATION.png" />
-<img src="https://github.com/aprcorp/ame-smart-contract-cross-chain/blob/main/images/KYC_VERIFICATION_2.png" />
 
 Let's take a look at the calculate the value to see a minimal example of an adapter. Each project gets it's own sub-directory under `/contracts`, with an lendingpool.sol file containing the main code and settings.
 
