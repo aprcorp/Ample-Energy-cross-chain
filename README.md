@@ -41,6 +41,10 @@ Technology and working principle ::
      
      # Writing a Project Adapter
 
+
+<img src="https://github.com/aprcorp/ame-smart-contract-cross-chain/upload/main/images/KYC_VERIFICATION.png" />
+<img src="https://github.com/aprcorp/ame-smart-contract-cross-chain/upload/main/images/KYC_VERIFICATION_2.png" />
+
 Let's take a look at the calculate the value to see a minimal example of an adapter. Each project gets it's own sub-directory under `/contracts`, with an lendingpool.sol file containing the main code and settings.
 
 ```
