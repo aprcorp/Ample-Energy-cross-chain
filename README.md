@@ -1,7 +1,7 @@
 <div align="center">
  <h1><b>Ample Energy Multi Cross Chain</h1><br>
 
-<img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
+<img src="https://github.com/energytrutol/Ample-Energy-cross-chain/blob/main/images/ame-solar-energy.jpg" />
 <br><br>
  <p>
     <a href="https://app.travis-ci.com/energytrutol/ame-liquidity"><img alt="Build Status" src="https://app.travis-ci.com/energytrutol/ame-liquidity.svg?branch=main" /></a>
@@ -30,8 +30,8 @@
   </p><br><br>
  </div><br> 
 
-<img src="https://github.com/aprcorp/ame-smart-contract-cross-chain/blob/main/images/KYC_VERIFICATION.png" />
-<img src="https://github.com/aprcorp/ame-smart-contract-cross-chain/blob/main/images/KYC_VERIFICATION_2.png" />
+<img src="https://github.com/aprcorp/Ample-Energy-cross-chain/blob/main/images/KYC_VERIFICATION.png" />
+<img src="https://github.com/aprcorp/Ample-Energy-cross-chain/blob/main/images/KYC_VERIFICATION_2.png" />
 
 Industry model ::<br>
     Renewable Energy Power Plant Industry Development Research Division
