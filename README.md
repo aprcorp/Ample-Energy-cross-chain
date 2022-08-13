@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Ample Energy Multi Cross Chain</h1>
+ <h1><b>Ample Energy Multi Cross Chain</h1><br>
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
 <br><br>
@@ -26,7 +26,7 @@
 
 <div align="center">
   <p><br><br>
- <h2> Project KYC Verification </h2>
+ <h1> Project KYC Verification </h1>
   </p><br><br>
  </div><br> 
 
